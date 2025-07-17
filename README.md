@@ -1,14 +1,12 @@
 # BNN
-
-BNN is the implementation of a binary-native and gradient-free learning algorithm for Binary Neural Networks.
-
-BNN has been introduced in the paper: ["Training Multi-Layer Binary Neural Networks With Random Local Binary Error Signals"](https://doi.org/10.1088/2632-2153/adf0c1).
+BNN is the implementation of a binary-native and gradient-free learning algorithm for Binary Neural Networks. BNN has been introduced in the paper: ["Training Multi-Layer Binary Neural Networks With Random Local Binary Error Signals"](https://doi.org/10.1088/2632-2153/adf0c1).
 
 *Disclaimer: we are working on the topic, so, expect changes in this repo.*
 
 ## External libraries used
 You can install them using `uv`.
-First of all you need to install uv (check [here](https://docs.astral.sh/uv/getting-started/installation/) for instructions) using:
+First of all you need to install uv (check [here](https://docs.astral.sh/uv/getting-started/installation/) for instructions).
+
 Then, you can install all you need using:
 ```bash
 uv sync
