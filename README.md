@@ -2,7 +2,7 @@
 
 BNN is the implementation of a binary-native and gradient-free learning algorithm for Binary Neural Networks.
 
-BNN has been introduced in the ["Training Multi-Layer Binary Neural Networks With Random Local Binary Error Signals"](https://doi.org/10.1088/2632-2153/adf0c1).
+BNN has been introduced in the paper: ["Training Multi-Layer Binary Neural Networks With Random Local Binary Error Signals"](https://doi.org/10.1088/2632-2153/adf0c1).
 
 *Disclaimer: we are working on the topic, so, expect changes in this repo.*
 
